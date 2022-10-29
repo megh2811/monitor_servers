@@ -1,0 +1,22 @@
+CRITICAL:root:
+Pinging 139.162.195.28 with 32 bytes of data:
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+
+Ping statistics for 139.162.195.28:
+    Packets: Sent = 4, Received = 0, Lost = 4 (100% loss),
+
+CRITICAL:root:Time: 2022-10-29 17:46:05.853936
+CRITICAL:root:
+Pinging 139.162.198.10 with 32 bytes of data:
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+
+Ping statistics for 139.162.198.10:
+    Packets: Sent = 4, Received = 0, Lost = 4 (100% loss),
+
+CRITICAL:root:Time: 2022-10-29 17:46:24.853498
