@@ -10,7 +10,7 @@ import logging
 from datetime import datetime
 
 
-log_path = r'C:\Users\Meghana\Desktop\Academic\PYTHON\Scripts\monitor_server_log.txt'
+log_path = r'filepath\monitor_server_log.txt'
 attachment = os.path.basename(log_path)
 logging.basicConfig(filename=log_path, level=logging.CRITICAL)
 
