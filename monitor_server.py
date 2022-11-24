@@ -14,7 +14,7 @@ log_path = r'filepath\monitor_server_log.txt'
 attachment = os.path.basename(log_path)
 logging.basicConfig(filename=log_path, level=logging.CRITICAL)
 
-server_list_path = r'C:\Users\Meghana\Desktop\Academic\PYTHON\Scripts\monitor_server_list.txt'
+server_list_path = r'filepath\monitor_server_list.txt'
 
 server_down = []
 
